@@ -5,6 +5,7 @@ package com.myspace.mortgage_app;
  */
 
 @org.kie.api.definition.type.Label("Property")
+@org.kie.api.definition.type.Description("Property description")
 public class Property implements java.io.Serializable {
 
 	static final long serialVersionUID = 1L;
