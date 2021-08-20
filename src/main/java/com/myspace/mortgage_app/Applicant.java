@@ -11,6 +11,7 @@ public class Applicant implements java.io.Serializable {
 	static final long serialVersionUID = 1L;
 
 	@org.kie.api.definition.type.Label("Name")
+	@org.kie.api.definition.type.Description("Last chance")
 	private java.lang.String name;
 	@org.kie.api.definition.type.Label("Annual Income")
 	@org.kie.api.definition.type.Description("Annual income of the applicant")
