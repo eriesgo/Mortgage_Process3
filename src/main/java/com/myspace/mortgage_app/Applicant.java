@@ -20,6 +20,7 @@ public class Applicant implements java.io.Serializable {
 	@org.kie.api.definition.type.Label("SSN")
 	private java.lang.Integer ssn;
 	@org.kie.api.definition.type.Label("Credit Rating")
+	@org.kie.api.definition.type.Description("Credit Rating description")
 	private java.lang.Integer creditrating;
 
 	public Applicant() {
