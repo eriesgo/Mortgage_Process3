@@ -13,6 +13,7 @@ public class Applicant implements java.io.Serializable {
 	@org.kie.api.definition.type.Label("Name")
 	private java.lang.String name;
 	@org.kie.api.definition.type.Label("Annual Income")
+	@org.kie.api.definition.type.Description("Annual income of the applicant")
 	private java.lang.Integer annualincome;
 	@org.kie.api.definition.type.Label("Address")
 	private java.lang.String address;
