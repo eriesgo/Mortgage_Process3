@@ -4,12 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>mortgage-process</groupId>
   <artifactId>mortgage-process</artifactId>
-  <version>1.0.5.2-SNAPSHOT</version>
+  <version>1.0.6-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>Mortgage_Process_A</name>
   <description>Getting started loan approval process in BPMN2, decision table, business rules, and forms.
-New version to 1.0.5 to show it is working fine.
-New change from GitHub</description>
+New version to 1.0.5 to show it is working fine. New change from GitHub. And version 1.0.6</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
