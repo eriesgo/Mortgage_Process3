@@ -9,7 +9,7 @@
   <name>Mortgage_Process_A</name>
   <description>Getting started loan approval process in BPMN2, decision table, business rules, and forms.
 New version to 1.0.5 to show it is working fine.
-New change</description>
+New change from GitHub</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
