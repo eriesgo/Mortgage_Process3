@@ -57,4 +57,11 @@ New version to 1.0.5 to show it is working fine. New change from GitHub. And ver
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+    <repository>
+      <id>external-s3</id>
+      <name>S3 Repository</name>
+      <url>http://ES-5CG0246CYN:3000/maven2</url>
+    </repository>
+  </distributionManagement>  
 </project>
