@@ -59,9 +59,9 @@ New version to 1.0.5 to show it is working fine. New change from GitHub. And ver
   </build>
   <distributionManagement>
     <repository>
-      <id>external-s3</id>
+      <id>environment-maven</id>
       <name>S3 Repository</name>
-      <url>http://maven-on-s3:3000/maven2</url>
+      <url>http://environment-maven:3000/maven2</url>
     </repository>
   </distributionManagement>  
 </project>
